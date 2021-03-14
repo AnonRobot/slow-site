@@ -1,0 +1,21 @@
+.profilePic {
+	width: 35%;
+}
+.nameContainer {
+	height: 80px;
+}
+.name {
+	color: white;
+	font-size: 40px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 200px;
+	margin-top: 2%;
+}
+@media screen and (max-width: 600px) {
+	.profilePic {
+		width: 70% !important;
+		border: 10px solid black !important;
+	}
+}
