@@ -7,3 +7,10 @@
 	width: 200px;
 	margin-top: 2%;
 }
+#surname p {
+	width: 100px;
+	height: 100px;
+	image-rendering: auto;
+	animation: both;
+	float: left;
+}
